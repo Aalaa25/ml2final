@@ -1,3 +1,0 @@
-Data/cleaned_people_wiki.csv filter=lfs diff=lfs merge=lfs -text
-Data/clustered_people_wiki.csv filter=lfs diff=lfs merge=lfs -text
-Data/people_wiki.csv filter=lfs diff=lfs merge=lfs -text
